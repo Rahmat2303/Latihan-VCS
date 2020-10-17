@@ -1,4 +1,9 @@
 # Latihan-VCS
+
+Nama  :Rahmat
+NIM   :312010229
+Kelas :TI.20.A2
+
 Tata cara atau tutorial menggunakan GIT
 
 Apa itu Git?
